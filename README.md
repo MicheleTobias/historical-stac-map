@@ -1,3 +1,5 @@
-# eoapi.stac-map.io
+# Historical stac-map
 
-A white-label deployment of [stac-map](https://github.com/developmentseed/stac-map) for [eoapi-devseed](https://github.com/developmentseed/eoapi-devseed/).
+An implementation of Development Seed's [stac-map](https://github.com/developmentseed/stac-map) for scanned & georeferenced historical maps.
+
+This is part of an exploration of tools available to make a STAC catalog visually searchable.
