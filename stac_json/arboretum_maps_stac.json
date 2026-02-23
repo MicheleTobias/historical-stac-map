@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "CA_Merritt_292895_1952_24000_geo.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.73682856909383,
+              38.48328399892513
+            ],
+            [
+              -121.73682856909383,
+              38.630904847391555
+            ],
+            [
+              -121.89056765894111,
+              38.630904847391555
+            ],
+            [
+              -121.89056765894111,
+              38.48328399892513
+            ],
+            [
+              -121.73682856909383,
+              38.48328399892513
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.89056765894111,
+        38.48328399892513,
+        -121.73682856909383,
+        38.630904847391555
+      ],
+      "properties": {
+        "Title": "Merritt Quadrangle, California",
+        "Cartographer": "USGS",
+        "Publisher": "USGS",
+        "Year": "1952",
+        "Map Scale": "1:2400",
+        "Map Type": "topographic",
+        "datetime": "1952-01-01T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/CA_Merritt_292895_1952_24000_geo.tif/CA_Merritt_292895_1952_24000_geo.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/CA_Merritt_292895_1952_24000_geo.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Merritt Quadrangle, California"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "CA_Sacramento_299158_1994_100000_geo.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -120.85040613443222,
+              38.472327201206404
+            ],
+            [
+              -120.85040613443222,
+              39.025145859520734
+            ],
+            [
+              -122.04769583989449,
+              39.025145859520734
+            ],
+            [
+              -122.04769583989449,
+              38.472327201206404
+            ],
+            [
+              -120.85040613443222,
+              38.472327201206404
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -122.04769583989449,
+        38.472327201206404,
+        -120.85040613443222,
+        39.025145859520734
+      ],
+      "properties": {
+        "Title": "Sacramento, California",
+        "Cartographer": "USGS",
+        "Publisher": "USGS",
+        "Year": "1994",
+        "Map Scale": "1:100000",
+        "Map Type": "topographic",
+        "datetime": "1994-01-01T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/CA_Sacramento_299158_1994_100000_geo.tif/CA_Sacramento_299158_1994_100000_geo.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/CA_Sacramento_299158_1994_100000_geo.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Sacramento, California"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "CA_Woodland_299015_1907_62500_geo.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.72120213661913,
+              38.482202377351996
+            ],
+            [
+              -121.72120213661913,
+              38.766317970690345
+            ],
+            [
+              -122.02435392199764,
+              38.766317970690345
+            ],
+            [
+              -122.02435392199764,
+              38.482202377351996
+            ],
+            [
+              -121.72120213661913,
+              38.482202377351996
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -122.02435392199764,
+        38.482202377351996,
+        -121.72120213661913,
+        38.766317970690345
+      ],
+      "properties": {
+        "Title": "California Woodland Quadrangle",
+        "Cartographer": "USGS",
+        "Publisher": "USGS",
+        "Year": "1907",
+        "Map Scale": "1:62500",
+        "Map Type": "topographic",
+        "datetime": "1907-01-01T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/CA_Woodland_299015_1907_62500_geo.tif/CA_Woodland_299015_1907_62500_geo.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/CA_Woodland_299015_1907_62500_geo.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "California Woodland Quadrangle"
+        }
+      },
+      "collection": "pilot_maps"
+    }
+  ]
+}
