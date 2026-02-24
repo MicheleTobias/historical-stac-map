@@ -35,7 +35,7 @@ jobs:
         run: yarn build
         env:
           VITE_BASE_PATH: /historical-stac-map/
-          VITE_DEFAULT_HREF: stac_json/arboretum_maps_stac.json
+          VITE_DEFAULT_HREF: https://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/stac_json/arboretum_maps_stac.json
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
