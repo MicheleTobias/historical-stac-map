@@ -44,7 +44,7 @@
         "Cartographer": "USGS",
         "Publisher": "USGS",
         "Year": "1952",
-        "Map Scale": "1:2400",
+        "Map Scale": "1:('2400',)",
         "Map Type": "topographic",
         "datetime": "1952-01-01T00:00:00Z"
       },
@@ -125,7 +125,7 @@
         "Cartographer": "USGS",
         "Publisher": "USGS",
         "Year": "1994",
-        "Map Scale": "1:100000",
+        "Map Scale": "1:('100000',)",
         "Map Type": "topographic",
         "datetime": "1994-01-01T00:00:00Z"
       },
@@ -206,7 +206,7 @@
         "Cartographer": "USGS",
         "Publisher": "USGS",
         "Year": "1907",
-        "Map Scale": "1:62500",
+        "Map Scale": "1:('62500',)",
         "Map Type": "topographic",
         "datetime": "1907-01-01T00:00:00Z"
       },
@@ -240,6 +240,330 @@
           "href": "georeferenced_maps/CA_Woodland_299015_1907_62500_geo.tif",
           "type": "image/tiff; application=geotiff",
           "title": "California Woodland Quadrangle"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "arboretum_001_georeferenced.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.74389487385133,
+              38.524019893040325
+            ],
+            [
+              -121.74389487385133,
+              38.540295515032966
+            ],
+            [
+              -121.76809454830402,
+              38.540295515032966
+            ],
+            [
+              -121.76809454830402,
+              38.524019893040325
+            ],
+            [
+              -121.74389487385133,
+              38.524019893040325
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76809454830402,
+        38.524019893040325,
+        -121.74389487385133,
+        38.540295515032966
+      ],
+      "properties": {
+        "Title": "Putah Creek Tree Locations",
+        "Cartographer": NaN,
+        "Publisher": NaN,
+        "Year": "1974",
+        "Map Scale": "1:('1\"=100\\'',)",
+        "Map Type": "inventory",
+        "datetime": "1974-11-05T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_001_georeferenced.tif/arboretum_001_georeferenced.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_001_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Putah Creek Tree Locations"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "arboretum_002_georeferenced.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.74509428455198,
+              38.52329216825981
+            ],
+            [
+              -121.74509428455198,
+              38.540388085882604
+            ],
+            [
+              -121.76948351637142,
+              38.540388085882604
+            ],
+            [
+              -121.76948351637142,
+              38.52329216825981
+            ],
+            [
+              -121.74509428455198,
+              38.52329216825981
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76948351637142,
+        38.52329216825981,
+        -121.74509428455198,
+        38.540388085882604
+      ],
+      "properties": {
+        "Title": "Arboretum Functions",
+        "Cartographer": "Bill Andersen",
+        "Publisher": NaN,
+        "Year": "1957",
+        "Map Scale": "1:('1\"=100\\'',)",
+        "Map Type": "functions",
+        "datetime": "1957-01-01T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_002_georeferenced.tif/arboretum_002_georeferenced.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_002_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Arboretum Functions"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "arboretum_006_georeferenced.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.75962226568984,
+              38.52726484945886
+            ],
+            [
+              -121.75962226568984,
+              38.53203563550007
+            ],
+            [
+              -121.76658568592218,
+              38.53203563550007
+            ],
+            [
+              -121.76658568592218,
+              38.52726484945886
+            ],
+            [
+              -121.75962226568984,
+              38.52726484945886
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76658568592218,
+        38.52726484945886,
+        -121.75962226568984,
+        38.53203563550007
+      ],
+      "properties": {
+        "Title": "General Plan Shields Grove: Mediterranean Area",
+        "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
+        "Publisher": NaN,
+        "Year": "1982",
+        "Map Scale": "1:(nan,)",
+        "Map Type": "general_plan",
+        "datetime": "1982-03-19T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_006_georeferenced.tif/arboretum_006_georeferenced.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_006_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "General Plan Shields Grove: Mediterranean Area"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "arboretum_007_georeferenced.tif",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.75118306575115,
+              38.529967318199844
+            ],
+            [
+              -121.75118306575115,
+              38.53591944827775
+            ],
+            [
+              -121.75832145691044,
+              38.53591944827775
+            ],
+            [
+              -121.75832145691044,
+              38.529967318199844
+            ],
+            [
+              -121.75118306575115,
+              38.529967318199844
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.75832145691044,
+        38.529967318199844,
+        -121.75118306575115,
+        38.53591944827775
+      ],
+      "properties": {
+        "Title": "Cole Facilty Area: Asphalt Path Improvements",
+        "Cartographer": "Steve Greco",
+        "Publisher": NaN,
+        "Year": "1988",
+        "Map Scale": "1:(nan,)",
+        "Map Type": "blueprint",
+        "datetime": "1988-01-01T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_007_georeferenced.tif/arboretum_007_georeferenced.tif.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_007_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Cole Facilty Area: Asphalt Path Improvements"
         }
       },
       "collection": "pilot_maps"
