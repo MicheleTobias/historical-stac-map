@@ -5,7 +5,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "CA_Merritt_292895_1952_24000_geo.tif",
+      "id": "Merritt Quadrangle, California",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63,7 +63,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/CA_Merritt_292895_1952_24000_geo.tif/CA_Merritt_292895_1952_24000_geo.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Merritt Quadrangle, California/Merritt Quadrangle, California.json",
           "type": "application/json"
         },
         {
@@ -86,7 +86,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "CA_Sacramento_299158_1994_100000_geo.tif",
+      "id": "Sacramento, California",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -144,7 +144,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/CA_Sacramento_299158_1994_100000_geo.tif/CA_Sacramento_299158_1994_100000_geo.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Sacramento, California/Sacramento, California.json",
           "type": "application/json"
         },
         {
@@ -167,7 +167,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "CA_Woodland_299015_1907_62500_geo.tif",
+      "id": "California Woodland Quadrangle",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -225,7 +225,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/CA_Woodland_299015_1907_62500_geo.tif/CA_Woodland_299015_1907_62500_geo.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/California Woodland Quadrangle/California Woodland Quadrangle.json",
           "type": "application/json"
         },
         {
@@ -248,7 +248,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "arboretum_001_georeferenced.tif",
+      "id": "Putah Creek Tree Locations",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -306,7 +306,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_001_georeferenced.tif/arboretum_001_georeferenced.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Putah Creek Tree Locations/Putah Creek Tree Locations.json",
           "type": "application/json"
         },
         {
@@ -329,7 +329,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "arboretum_002_georeferenced.tif",
+      "id": "Arboretum Functions",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -387,7 +387,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_002_georeferenced.tif/arboretum_002_georeferenced.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Arboretum Functions/Arboretum Functions.json",
           "type": "application/json"
         },
         {
@@ -410,7 +410,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "arboretum_006_georeferenced.tif",
+      "id": "General Plan Shields Grove: Mediterranean Area",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -468,7 +468,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_006_georeferenced.tif/arboretum_006_georeferenced.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/General Plan Shields Grove: Mediterranean Area/General Plan Shields Grove: Mediterranean Area.json",
           "type": "application/json"
         },
         {
@@ -491,7 +491,7 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "arboretum_007_georeferenced.tif",
+      "id": "Cole Facilty Area: Asphalt Path Improvements",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -549,7 +549,7 @@
         },
         {
           "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/arboretum_007_georeferenced.tif/arboretum_007_georeferenced.tif.json",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Cole Facilty Area: Asphalt Path Improvements/Cole Facilty Area: Asphalt Path Improvements.json",
           "type": "application/json"
         },
         {
