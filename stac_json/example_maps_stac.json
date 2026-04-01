@@ -284,8 +284,8 @@
       ],
       "properties": {
         "Title": "Putah Creek Tree Locations",
-        "Cartographer": NaN,
-        "Publisher": NaN,
+        "Cartographer": "unknown",
+        "Publisher": "unknown",
         "Year": "1974",
         "Map Scale": "1:('1\"=100\\'',)",
         "Map Type": "inventory",
@@ -366,7 +366,7 @@
       "properties": {
         "Title": "Arboretum Functions",
         "Cartographer": "Bill Andersen",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1957",
         "Map Scale": "1:('1\"=100\\'',)",
         "Map Type": "functions",
@@ -447,7 +447,7 @@
       "properties": {
         "Title": "General Plan Shields Grove: Mediterranean Area",
         "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1982",
         "Map Scale": "1:(nan,)",
         "Map Type": "general_plan",
@@ -528,7 +528,7 @@
       "properties": {
         "Title": "Cole Facilty Area: Asphalt Path Improvements",
         "Cartographer": "Steve Greco",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1988",
         "Map Scale": "1:(nan,)",
         "Map Type": "blueprint",
