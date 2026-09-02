@@ -41,8 +41,8 @@
       ],
       "properties": {
         "Title": "Putah Creek Tree Locations",
-        "Cartographer": NaN,
-        "Publisher": NaN,
+        "Cartographer": "unknown",
+        "Publisher": "unknown",
         "Year": "1974",
         "Map Scale": "1:('1\"=100\\'',)",
         "Map Type": "inventory",
@@ -123,7 +123,7 @@
       "properties": {
         "Title": "Arboretum Functions",
         "Cartographer": "Bill Andersen",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1957",
         "Map Scale": "1:('1\"=100\\'',)",
         "Map Type": "functions",
@@ -285,7 +285,7 @@
       "properties": {
         "Title": "MWB - Immel Planting Plan, Colored Copy",
         "Cartographer": "Michael L. Immel",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1977",
         "Map Scale": "1:('1\"=10\\'',)",
         "Map Type": "planting",
@@ -366,7 +366,7 @@
       "properties": {
         "Title": "General Plan Shields Grove: Mediterranean Area",
         "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1982",
         "Map Scale": "1:(nan,)",
         "Map Type": "general",
@@ -447,7 +447,7 @@
       "properties": {
         "Title": "Cole Facilty Area: Asphalt Path Improvements",
         "Cartographer": "Steve Greco",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1988",
         "Map Scale": "1:(nan,)",
         "Map Type": "blueprint",
@@ -528,7 +528,7 @@
       "properties": {
         "Title": "Eucalyptus Planting",
         "Cartographer": "UCD Architects & Engineers",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1969",
         "Map Scale": "1:('1\"=40\\'',)",
         "Map Type": "planting",
@@ -609,7 +609,7 @@
       "properties": {
         "Title": "Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge",
         "Cartographer": "Amy L. Davis",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1993",
         "Map Scale": "1:('1\"=10\\'',)",
         "Map Type": "planting",
@@ -690,7 +690,7 @@
       "properties": {
         "Title": "California Garden: Final Design(pastel)",
         "Cartographer": "Stephanie Peason",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1996",
         "Map Scale": "1:('1\"=10\\'',)",
         "Map Type": "planting",
@@ -771,7 +771,7 @@
       "properties": {
         "Title": "Oak Plantings ",
         "Cartographer": "Julie Sayer and Leigh Slimp",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1982",
         "Map Scale": "1:('1\"=40\\'',)",
         "Map Type": "planting",
@@ -852,7 +852,7 @@
       "properties": {
         "Title": "Preliminary Planting Plan Putah Creek Bridge UC at Davis",
         "Cartographer": "Lawrence Halprin",
-        "Publisher": NaN,
+        "Publisher": "unknown",
         "Year": "1953",
         "Map Scale": "1:('1\"=10\\'',)",
         "Map Type": "planting",
@@ -1014,7 +1014,7 @@
       "properties": {
         "Title": "Fall Color Planting Design",
         "Cartographer": "Warren Roberts",
-        "Publisher": "Unknown",
+        "Publisher": "unknown",
         "Year": "1996",
         "Map Scale": "1:('1\"=15.5\\'',)",
         "Map Type": "planting",
