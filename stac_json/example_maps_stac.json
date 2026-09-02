@@ -5,249 +5,6 @@
       "type": "Feature",
       "stac_version": "1.1.0",
       "stac_extensions": [],
-      "id": "Merritt Quadrangle, California",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -121.73682856909383,
-              38.48328399892513
-            ],
-            [
-              -121.73682856909383,
-              38.630904847391555
-            ],
-            [
-              -121.89056765894111,
-              38.630904847391555
-            ],
-            [
-              -121.89056765894111,
-              38.48328399892513
-            ],
-            [
-              -121.73682856909383,
-              38.48328399892513
-            ]
-          ]
-        ]
-      },
-      "bbox": [
-        -121.89056765894111,
-        38.48328399892513,
-        -121.73682856909383,
-        38.630904847391555
-      ],
-      "properties": {
-        "Title": "Merritt Quadrangle, California",
-        "Cartographer": "USGS",
-        "Publisher": "USGS",
-        "Year": "1952",
-        "Map Scale": "1:('2400',)",
-        "Map Type": "topographic",
-        "datetime": "1952-01-01T00:00:00Z"
-      },
-      "links": [
-        {
-          "rel": "root",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        },
-        {
-          "rel": "collection",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        },
-        {
-          "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Merritt Quadrangle, California/Merritt Quadrangle, California.json",
-          "type": "application/json"
-        },
-        {
-          "rel": "parent",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        }
-      ],
-      "assets": {
-        "metadata": {
-          "href": "georeferenced_maps/CA_Merritt_292895_1952_24000_geo.tif",
-          "type": "image/tiff; application=geotiff",
-          "title": "Merritt Quadrangle, California"
-        }
-      },
-      "collection": "pilot_maps"
-    },
-    {
-      "type": "Feature",
-      "stac_version": "1.1.0",
-      "stac_extensions": [],
-      "id": "Sacramento, California",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -120.85040613443222,
-              38.472327201206404
-            ],
-            [
-              -120.85040613443222,
-              39.025145859520734
-            ],
-            [
-              -122.04769583989449,
-              39.025145859520734
-            ],
-            [
-              -122.04769583989449,
-              38.472327201206404
-            ],
-            [
-              -120.85040613443222,
-              38.472327201206404
-            ]
-          ]
-        ]
-      },
-      "bbox": [
-        -122.04769583989449,
-        38.472327201206404,
-        -120.85040613443222,
-        39.025145859520734
-      ],
-      "properties": {
-        "Title": "Sacramento, California",
-        "Cartographer": "USGS",
-        "Publisher": "USGS",
-        "Year": "1994",
-        "Map Scale": "1:('100000',)",
-        "Map Type": "topographic",
-        "datetime": "1994-01-01T00:00:00Z"
-      },
-      "links": [
-        {
-          "rel": "root",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        },
-        {
-          "rel": "collection",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        },
-        {
-          "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Sacramento, California/Sacramento, California.json",
-          "type": "application/json"
-        },
-        {
-          "rel": "parent",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        }
-      ],
-      "assets": {
-        "metadata": {
-          "href": "georeferenced_maps/CA_Sacramento_299158_1994_100000_geo.tif",
-          "type": "image/tiff; application=geotiff",
-          "title": "Sacramento, California"
-        }
-      },
-      "collection": "pilot_maps"
-    },
-    {
-      "type": "Feature",
-      "stac_version": "1.1.0",
-      "stac_extensions": [],
-      "id": "California Woodland Quadrangle",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -121.72120213661913,
-              38.482202377351996
-            ],
-            [
-              -121.72120213661913,
-              38.766317970690345
-            ],
-            [
-              -122.02435392199764,
-              38.766317970690345
-            ],
-            [
-              -122.02435392199764,
-              38.482202377351996
-            ],
-            [
-              -121.72120213661913,
-              38.482202377351996
-            ]
-          ]
-        ]
-      },
-      "bbox": [
-        -122.02435392199764,
-        38.482202377351996,
-        -121.72120213661913,
-        38.766317970690345
-      ],
-      "properties": {
-        "Title": "California Woodland Quadrangle",
-        "Cartographer": "USGS",
-        "Publisher": "USGS",
-        "Year": "1907",
-        "Map Scale": "1:('62500',)",
-        "Map Type": "topographic",
-        "datetime": "1907-01-01T00:00:00Z"
-      },
-      "links": [
-        {
-          "rel": "root",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        },
-        {
-          "rel": "collection",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        },
-        {
-          "rel": "self",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/California Woodland Quadrangle/California Woodland Quadrangle.json",
-          "type": "application/json"
-        },
-        {
-          "rel": "parent",
-          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
-          "type": "application/json",
-          "title": "Arboretum Maps"
-        }
-      ],
-      "assets": {
-        "metadata": {
-          "href": "georeferenced_maps/CA_Woodland_299015_1907_62500_geo.tif",
-          "type": "image/tiff; application=geotiff",
-          "title": "California Woodland Quadrangle"
-        }
-      },
-      "collection": "pilot_maps"
-    },
-    {
-      "type": "Feature",
-      "stac_version": "1.1.0",
-      "stac_extensions": [],
       "id": "Putah Creek Tree Locations",
       "geometry": {
         "type": "Polygon",
@@ -284,8 +41,8 @@
       ],
       "properties": {
         "Title": "Putah Creek Tree Locations",
-        "Cartographer": "unknown",
-        "Publisher": "unknown",
+        "Cartographer": NaN,
+        "Publisher": NaN,
         "Year": "1974",
         "Map Scale": "1:('1\"=100\\'',)",
         "Map Type": "inventory",
@@ -366,7 +123,7 @@
       "properties": {
         "Title": "Arboretum Functions",
         "Cartographer": "Bill Andersen",
-        "Publisher": "unknown",
+        "Publisher": NaN,
         "Year": "1957",
         "Map Scale": "1:('1\"=100\\'',)",
         "Map Type": "functions",
@@ -402,6 +159,168 @@
           "href": "georeferenced_maps/arboretum_002_georeferenced.tif",
           "type": "image/tiff; application=geotiff",
           "title": "Arboretum Functions"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.76560305842727,
+              38.52964361361432
+            ],
+            [
+              -121.76560305842727,
+              38.53012673693076
+            ],
+            [
+              -121.76648541963195,
+              38.53012673693076
+            ],
+            [
+              -121.76648541963195,
+              38.52964361361432
+            ],
+            [
+              -121.76560305842727,
+              38.52964361361432
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76648541963195,
+        38.52964361361432,
+        -121.76560305842727,
+        38.53012673693076
+      ],
+      "properties": {
+        "Title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint",
+        "Cartographer": "J.J.",
+        "Publisher": "DSK Associates",
+        "Year": "1994",
+        "Map Scale": "1:('1\"=1/8\\'',)",
+        "Map Type": "blueprint",
+        "datetime": "1994-04-18T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint/Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps//arboretum_004_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "MWB - Immel Planting Plan, Colored Copy",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.74620082112462,
+              38.5376909315504
+            ],
+            [
+              -121.74620082112462,
+              38.539166705905615
+            ],
+            [
+              -121.74751071371445,
+              38.539166705905615
+            ],
+            [
+              -121.74751071371445,
+              38.5376909315504
+            ],
+            [
+              -121.74620082112462,
+              38.5376909315504
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.74751071371445,
+        38.5376909315504,
+        -121.74620082112462,
+        38.539166705905615
+      ],
+      "properties": {
+        "Title": "MWB - Immel Planting Plan, Colored Copy",
+        "Cartographer": "Michael L. Immel",
+        "Publisher": NaN,
+        "Year": "1977",
+        "Map Scale": "1:('1\"=10\\'',)",
+        "Map Type": "planting",
+        "datetime": "1977-11-24T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/MWB - Immel Planting Plan, Colored Copy/MWB - Immel Planting Plan, Colored Copy.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_005_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "MWB - Immel Planting Plan, Colored Copy"
         }
       },
       "collection": "pilot_maps"
@@ -447,10 +366,10 @@
       "properties": {
         "Title": "General Plan Shields Grove: Mediterranean Area",
         "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
-        "Publisher": "unknown",
+        "Publisher": NaN,
         "Year": "1982",
         "Map Scale": "1:(nan,)",
-        "Map Type": "general_plan",
+        "Map Type": "general",
         "datetime": "1982-03-19T00:00:00Z"
       },
       "links": [
@@ -528,7 +447,7 @@
       "properties": {
         "Title": "Cole Facilty Area: Asphalt Path Improvements",
         "Cartographer": "Steve Greco",
-        "Publisher": "unknown",
+        "Publisher": NaN,
         "Year": "1988",
         "Map Scale": "1:(nan,)",
         "Map Type": "blueprint",
@@ -564,6 +483,573 @@
           "href": "georeferenced_maps/arboretum_007_georeferenced.tif",
           "type": "image/tiff; application=geotiff",
           "title": "Cole Facilty Area: Asphalt Path Improvements"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Eucalyptus Planting",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.73941796829412,
+              38.53897569042247
+            ],
+            [
+              -121.73941796829412,
+              38.54226149041162
+            ],
+            [
+              -121.74486380168484,
+              38.54226149041162
+            ],
+            [
+              -121.74486380168484,
+              38.53897569042247
+            ],
+            [
+              -121.73941796829412,
+              38.53897569042247
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.74486380168484,
+        38.53897569042247,
+        -121.73941796829412,
+        38.54226149041162
+      ],
+      "properties": {
+        "Title": "Eucalyptus Planting",
+        "Cartographer": "UCD Architects & Engineers",
+        "Publisher": NaN,
+        "Year": "1969",
+        "Map Scale": "1:('1\"=40\\'',)",
+        "Map Type": "planting",
+        "datetime": "1969-06-12T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Eucalyptus Planting/Eucalyptus Planting.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_008_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Eucalyptus Planting"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.75825144556804,
+              38.53126163051573
+            ],
+            [
+              -121.75825144556804,
+              38.53195377624758
+            ],
+            [
+              -121.75963483134264,
+              38.53195377624758
+            ],
+            [
+              -121.75963483134264,
+              38.53126163051573
+            ],
+            [
+              -121.75825144556804,
+              38.53126163051573
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.75963483134264,
+        38.53126163051573,
+        -121.75825144556804,
+        38.53195377624758
+      ],
+      "properties": {
+        "Title": "Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge",
+        "Cartographer": "Amy L. Davis",
+        "Publisher": NaN,
+        "Year": "1993",
+        "Map Scale": "1:('1\"=10\\'',)",
+        "Map Type": "planting",
+        "datetime": "1993-08-24T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge/Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_009_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "California Garden: Final Design(pastel)",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.75918619872051,
+              38.529289940408646
+            ],
+            [
+              -121.75918619872051,
+              38.530469434134694
+            ],
+            [
+              -121.7605941503313,
+              38.530469434134694
+            ],
+            [
+              -121.7605941503313,
+              38.529289940408646
+            ],
+            [
+              -121.75918619872051,
+              38.529289940408646
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.7605941503313,
+        38.529289940408646,
+        -121.75918619872051,
+        38.530469434134694
+      ],
+      "properties": {
+        "Title": "California Garden: Final Design(pastel)",
+        "Cartographer": "Stephanie Peason",
+        "Publisher": NaN,
+        "Year": "1996",
+        "Map Scale": "1:('1\"=10\\'',)",
+        "Map Type": "planting",
+        "datetime": "1996-06-11T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/California Garden: Final Design(pastel)/California Garden: Final Design(pastel).json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_010_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "California Garden: Final Design(pastel)"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Oak Plantings ",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.76045736045374,
+              38.52717512480145
+            ],
+            [
+              -121.76045736045374,
+              38.531183587748515
+            ],
+            [
+              -121.76840102040997,
+              38.531183587748515
+            ],
+            [
+              -121.76840102040997,
+              38.52717512480145
+            ],
+            [
+              -121.76045736045374,
+              38.52717512480145
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76840102040997,
+        38.52717512480145,
+        -121.76045736045374,
+        38.531183587748515
+      ],
+      "properties": {
+        "Title": "Oak Plantings ",
+        "Cartographer": "Julie Sayer and Leigh Slimp",
+        "Publisher": NaN,
+        "Year": "1982",
+        "Map Scale": "1:('1\"=40\\'',)",
+        "Map Type": "planting",
+        "datetime": "1982-12-01T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Oak Plantings /Oak Plantings .json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_011_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Oak Plantings "
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Preliminary Planting Plan Putah Creek Bridge UC at Davis",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.75184111351464,
+              38.53360525651907
+            ],
+            [
+              -121.75184111351464,
+              38.53451240515172
+            ],
+            [
+              -121.7525352013105,
+              38.53451240515172
+            ],
+            [
+              -121.7525352013105,
+              38.53360525651907
+            ],
+            [
+              -121.75184111351464,
+              38.53360525651907
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.7525352013105,
+        38.53360525651907,
+        -121.75184111351464,
+        38.53451240515172
+      ],
+      "properties": {
+        "Title": "Preliminary Planting Plan Putah Creek Bridge UC at Davis",
+        "Cartographer": "Lawrence Halprin",
+        "Publisher": NaN,
+        "Year": "1953",
+        "Map Scale": "1:('1\"=10\\'',)",
+        "Map Type": "planting",
+        "datetime": "1953-12-11T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Preliminary Planting Plan Putah Creek Bridge UC at Davis/Preliminary Planting Plan Putah Creek Bridge UC at Davis.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_012_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Preliminary Planting Plan Putah Creek Bridge UC at Davis"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.76212037971418,
+              38.5288873428784
+            ],
+            [
+              -121.76212037971418,
+              38.530795286840906
+            ],
+            [
+              -121.76694608069268,
+              38.530795286840906
+            ],
+            [
+              -121.76694608069268,
+              38.5288873428784
+            ],
+            [
+              -121.76212037971418,
+              38.5288873428784
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76694608069268,
+        38.5288873428784,
+        -121.76212037971418,
+        38.530795286840906
+      ],
+      "properties": {
+        "Title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)",
+        "Cartographer": "Samuel K. Kim",
+        "Publisher": "Samuel K. Kim",
+        "Year": "1993",
+        "Map Scale": "1:('1\"=30\\'',)",
+        "Map Type": "schematic",
+        "datetime": "1993-05-07T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)/Hydrozone Garden: schematic Landscape Plan (Final drawing - full color).json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_016_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)"
+        }
+      },
+      "collection": "pilot_maps"
+    },
+    {
+      "type": "Feature",
+      "stac_version": "1.1.0",
+      "stac_extensions": [],
+      "id": "Fall Color Planting Design",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.76153886448624,
+              38.52642024070935
+            ],
+            [
+              -121.76153886448624,
+              38.52843770050644
+            ],
+            [
+              -121.76420353531691,
+              38.52843770050644
+            ],
+            [
+              -121.76420353531691,
+              38.52642024070935
+            ],
+            [
+              -121.76153886448624,
+              38.52642024070935
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.76420353531691,
+        38.52642024070935,
+        -121.76153886448624,
+        38.52843770050644
+      ],
+      "properties": {
+        "Title": "Fall Color Planting Design",
+        "Cartographer": "Warren Roberts",
+        "Publisher": "Unknown",
+        "Year": "1996",
+        "Map Scale": "1:('1\"=15.5\\'',)",
+        "Map Type": "planting",
+        "datetime": "1996-06-29T00:00:00Z"
+      },
+      "links": [
+        {
+          "rel": "root",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "collection",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        },
+        {
+          "rel": "self",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/Fall Color Planting Design/Fall Color Planting Design.json",
+          "type": "application/json"
+        },
+        {
+          "rel": "parent",
+          "href": "c:/Users/mmtobias/Documents/GitHub/2026_majors_arboretum_maps/collection.json",
+          "type": "application/json",
+          "title": "Arboretum Maps"
+        }
+      ],
+      "assets": {
+        "metadata": {
+          "href": "georeferenced_maps/arboretum_017_georeferenced.tif",
+          "type": "image/tiff; application=geotiff",
+          "title": "Fall Color Planting Design"
         }
       },
       "collection": "pilot_maps"
