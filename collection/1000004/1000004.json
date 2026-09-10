@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "1000004",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.76560305842727,
+          38.52964361361432
+        ],
+        [
+          -121.76560305842727,
+          38.53012673693076
+        ],
+        [
+          -121.76648541963195,
+          38.53012673693076
+        ],
+        [
+          -121.76648541963195,
+          38.52964361361432
+        ],
+        [
+          -121.76560305842727,
+          38.52964361361432
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -121.76648541963195,
+    38.52964361361432,
+    -121.76560305842727,
+    38.53012673693076
+  ],
+  "properties": {
+    "Title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint",
+    "Cartographer": "J.J.",
+    "Publisher": "DSK Associates",
+    "Year": "1994",
+    "Map Scale": "1:('1\"=1/8\\'',)",
+    "Map Type": "blueprint",
+    "datetime": "2026-09-10T18:57:18.334142Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "./georeferenced_maps/arboretum_004_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint"
+    }
+  },
+  "collection": "pilot_maps"
+}

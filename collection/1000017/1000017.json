@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "1000017",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.76153886448624,
+          38.52642024070935
+        ],
+        [
+          -121.76153886448624,
+          38.52843770050644
+        ],
+        [
+          -121.76420353531691,
+          38.52843770050644
+        ],
+        [
+          -121.76420353531691,
+          38.52642024070935
+        ],
+        [
+          -121.76153886448624,
+          38.52642024070935
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -121.76420353531691,
+    38.52642024070935,
+    -121.76153886448624,
+    38.52843770050644
+  ],
+  "properties": {
+    "Title": "Fall Color Planting Design",
+    "Cartographer": "Warren Roberts",
+    "Publisher": "unknown",
+    "Year": "1996",
+    "Map Scale": "1:('1\"=15.5\\'',)",
+    "Map Type": "planting",
+    "datetime": "2026-09-10T18:57:18.383591Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "./georeferenced_maps/arboretum_017_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "Fall Color Planting Design"
+    }
+  },
+  "collection": "pilot_maps"
+}

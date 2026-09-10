@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "1000001",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.74389487385133,
+          38.524019893040325
+        ],
+        [
+          -121.74389487385133,
+          38.540295515032966
+        ],
+        [
+          -121.76809454830402,
+          38.540295515032966
+        ],
+        [
+          -121.76809454830402,
+          38.524019893040325
+        ],
+        [
+          -121.74389487385133,
+          38.524019893040325
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -121.76809454830402,
+    38.524019893040325,
+    -121.74389487385133,
+    38.540295515032966
+  ],
+  "properties": {
+    "Title": "Putah Creek Tree Locations",
+    "Cartographer": "unknown",
+    "Publisher": "unknown",
+    "Year": "1974",
+    "Map Scale": "1:('1\"=100\\'',)",
+    "Map Type": "inventory",
+    "datetime": "2026-09-10T18:57:18.320692Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "./georeferenced_maps/arboretum_001_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "Putah Creek Tree Locations"
+    }
+  },
+  "collection": "pilot_maps"
+}

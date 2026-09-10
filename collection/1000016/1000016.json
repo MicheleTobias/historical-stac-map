@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "1000016",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.76212037971418,
+          38.5288873428784
+        ],
+        [
+          -121.76212037971418,
+          38.530795286840906
+        ],
+        [
+          -121.76694608069268,
+          38.530795286840906
+        ],
+        [
+          -121.76694608069268,
+          38.5288873428784
+        ],
+        [
+          -121.76212037971418,
+          38.5288873428784
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -121.76694608069268,
+    38.5288873428784,
+    -121.76212037971418,
+    38.530795286840906
+  ],
+  "properties": {
+    "Title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)",
+    "Cartographer": "Samuel K. Kim",
+    "Publisher": "Samuel K. Kim",
+    "Year": "1993",
+    "Map Scale": "1:('1\"=30\\'',)",
+    "Map Type": "schematic",
+    "datetime": "2026-09-10T18:57:18.378498Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "./georeferenced_maps/arboretum_016_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)"
+    }
+  },
+  "collection": "pilot_maps"
+}

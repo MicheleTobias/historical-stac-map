@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "1000007",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.75118306575115,
+          38.529967318199844
+        ],
+        [
+          -121.75118306575115,
+          38.53591944827775
+        ],
+        [
+          -121.75832145691044,
+          38.53591944827775
+        ],
+        [
+          -121.75832145691044,
+          38.529967318199844
+        ],
+        [
+          -121.75118306575115,
+          38.529967318199844
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -121.75832145691044,
+    38.529967318199844,
+    -121.75118306575115,
+    38.53591944827775
+  ],
+  "properties": {
+    "Title": "Cole Facilty Area: Asphalt Path Improvements",
+    "Cartographer": "Steve Greco",
+    "Publisher": "unknown",
+    "Year": "1988",
+    "Map Scale": "1:(nan,)",
+    "Map Type": "blueprint",
+    "datetime": "2026-09-10T18:57:18.349272Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "./georeferenced_maps/arboretum_007_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "Cole Facilty Area: Asphalt Path Improvements"
+    }
+  },
+  "collection": "pilot_maps"
+}

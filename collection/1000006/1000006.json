@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "1000006",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.75962226568984,
+          38.52726484945886
+        ],
+        [
+          -121.75962226568984,
+          38.53203563550007
+        ],
+        [
+          -121.76658568592218,
+          38.53203563550007
+        ],
+        [
+          -121.76658568592218,
+          38.52726484945886
+        ],
+        [
+          -121.75962226568984,
+          38.52726484945886
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -121.76658568592218,
+    38.52726484945886,
+    -121.75962226568984,
+    38.53203563550007
+  ],
+  "properties": {
+    "Title": "General Plan Shields Grove: Mediterranean Area",
+    "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
+    "Publisher": "unknown",
+    "Year": "1982",
+    "Map Scale": "1:(nan,)",
+    "Map Type": "general",
+    "datetime": "2026-09-10T18:57:18.344189Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "./georeferenced_maps/arboretum_006_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "General Plan Shields Grove: Mediterranean Area"
+    }
+  },
+  "collection": "pilot_maps"
+}
