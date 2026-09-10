@@ -43,7 +43,7 @@
     "Year": "1994",
     "Map Scale": "1:('1\"=1/8\\'',)",
     "Map Type": "blueprint",
-    "datetime": "2026-09-10T18:57:18.334142Z"
+    "datetime": "2026-09-10T20:24:39.067902Z"
   },
   "links": [
     {
@@ -67,10 +67,10 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./georeferenced_maps/arboretum_004_georeferenced.tif",
+      "href": "georeferenced_maps//arboretum_004_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint"
     }
   },
-  "collection": "pilot_maps"
+  "collection": "arboretum_maps"
 }

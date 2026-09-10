@@ -43,7 +43,7 @@
     "Year": "1993",
     "Map Scale": "1:('1\"=30\\'',)",
     "Map Type": "schematic",
-    "datetime": "2026-09-10T18:57:18.378498Z"
+    "datetime": "2026-09-10T20:24:39.109672Z"
   },
   "links": [
     {
@@ -67,10 +67,10 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./georeferenced_maps/arboretum_016_georeferenced.tif",
+      "href": "georeferenced_maps/arboretum_016_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)"
     }
   },
-  "collection": "pilot_maps"
+  "collection": "arboretum_maps"
 }

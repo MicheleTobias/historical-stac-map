@@ -43,7 +43,7 @@
     "Year": "1969",
     "Map Scale": "1:('1\"=40\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-09-10T18:57:18.354329Z"
+    "datetime": "2026-09-10T20:24:39.090679Z"
   },
   "links": [
     {
@@ -67,10 +67,10 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./georeferenced_maps/arboretum_008_georeferenced.tif",
+      "href": "georeferenced_maps/arboretum_008_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Eucalyptus Planting"
     }
   },
-  "collection": "pilot_maps"
+  "collection": "arboretum_maps"
 }

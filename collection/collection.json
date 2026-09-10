@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "pilot_maps",
+  "id": "arboretum_maps",
   "stac_version": "1.1.0",
   "description": "Historic maps from the donated Arboretum Maps collection.",
   "links": [
@@ -81,10 +81,10 @@
     "spatial": {
       "bbox": [
         [
-          -180,
-          -90,
-          180,
-          90
+          -121.783481,
+          38.512432,
+          -121.783481,
+          38.512432
         ]
       ]
     },

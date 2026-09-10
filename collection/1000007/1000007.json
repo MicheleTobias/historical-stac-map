@@ -43,7 +43,7 @@
     "Year": "1988",
     "Map Scale": "1:(nan,)",
     "Map Type": "blueprint",
-    "datetime": "2026-09-10T18:57:18.349272Z"
+    "datetime": "2026-09-10T20:24:39.084279Z"
   },
   "links": [
     {
@@ -67,10 +67,10 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./georeferenced_maps/arboretum_007_georeferenced.tif",
+      "href": "georeferenced_maps/arboretum_007_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Cole Facilty Area: Asphalt Path Improvements"
     }
   },
-  "collection": "pilot_maps"
+  "collection": "arboretum_maps"
 }

@@ -43,7 +43,7 @@
     "Year": "1974",
     "Map Scale": "1:('1\"=100\\'',)",
     "Map Type": "inventory",
-    "datetime": "2026-09-10T18:57:18.320692Z"
+    "datetime": "2026-09-10T20:24:39.052588Z"
   },
   "links": [
     {
@@ -67,10 +67,10 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./georeferenced_maps/arboretum_001_georeferenced.tif",
+      "href": "georeferenced_maps/arboretum_001_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Putah Creek Tree Locations"
     }
   },
-  "collection": "pilot_maps"
+  "collection": "arboretum_maps"
 }
