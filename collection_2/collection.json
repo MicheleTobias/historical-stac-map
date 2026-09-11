@@ -1,0 +1,101 @@
+{
+  "type": "Collection",
+  "id": "arboretum_maps",
+  "stac_version": "1.1.0",
+  "description": "Historic maps from the donated Arboretum Maps collection.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "item",
+      "href": "./1000001/1000001.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000002/1000002.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000004/1000004.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000005/1000005.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000006/1000006.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000007/1000007.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000008/1000008.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000009/1000009.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000010/1000010.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000011/1000011.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000012/1000012.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000016/1000016.json",
+      "type": "application/geo+json"
+    },
+    {
+      "rel": "item",
+      "href": "./1000017/1000017.json",
+      "type": "application/geo+json"
+    }
+  ],
+  "title": "Arboretum Maps",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -121.783481,
+          38.512432,
+          -121.739668,
+          38.543724
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "1953-01-01T01:01:01Z",
+          "2007-02-04T01:01:01Z"
+        ]
+      ]
+    }
+  },
+  "license": "other"
+}

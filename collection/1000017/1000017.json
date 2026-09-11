@@ -43,7 +43,7 @@
     "Year": "1996",
     "Map Scale": "1:('1\"=15.5\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-09-10T20:32:05.732344Z"
+    "datetime": "2026-09-11T16:54:13.271519Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "georeferenced_maps/arboretum_017_georeferenced.tif",
+      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Fall Color Planting Design"
     }

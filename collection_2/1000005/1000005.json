@@ -2,48 +2,48 @@
   "type": "Feature",
   "stac_version": "1.1.0",
   "stac_extensions": [],
-  "id": "1000006",
+  "id": "1000005",
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          -121.75962226568984,
-          38.52726484945886
+          -121.74620082112462,
+          38.5376909315504
         ],
         [
-          -121.75962226568984,
-          38.53203563550007
+          -121.74620082112462,
+          38.539166705905615
         ],
         [
-          -121.76658568592218,
-          38.53203563550007
+          -121.74751071371445,
+          38.539166705905615
         ],
         [
-          -121.76658568592218,
-          38.52726484945886
+          -121.74751071371445,
+          38.5376909315504
         ],
         [
-          -121.75962226568984,
-          38.52726484945886
+          -121.74620082112462,
+          38.5376909315504
         ]
       ]
     ]
   },
   "bbox": [
-    -121.76658568592218,
-    38.52726484945886,
-    -121.75962226568984,
-    38.53203563550007
+    -121.74751071371445,
+    38.5376909315504,
+    -121.74620082112462,
+    38.539166705905615
   ],
   "properties": {
-    "Title": "General Plan Shields Grove: Mediterranean Area",
-    "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
+    "Title": "MWB - Immel Planting Plan, Colored Copy",
+    "Cartographer": "Michael L. Immel",
     "Publisher": "unknown",
-    "Year": "1982",
-    "Map Scale": "1:(nan,)",
-    "Map Type": "general",
-    "datetime": "2026-09-11T16:54:13.250899Z"
+    "Year": "1977",
+    "Map Scale": "1:('1\"=10\\'',)",
+    "Map Type": "planting",
+    "datetime": "2026-09-10T20:32:05.710279Z"
   },
   "links": [
     {
@@ -67,9 +67,9 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "georeferenced_maps/arboretum_005_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
-      "title": "General Plan Shields Grove: Mediterranean Area"
+      "title": "MWB - Immel Planting Plan, Colored Copy"
     }
   },
   "collection": "arboretum_maps"

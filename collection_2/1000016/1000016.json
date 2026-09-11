@@ -2,48 +2,48 @@
   "type": "Feature",
   "stac_version": "1.1.0",
   "stac_extensions": [],
-  "id": "1000006",
+  "id": "1000016",
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          -121.75962226568984,
-          38.52726484945886
+          -121.76212037971418,
+          38.5288873428784
         ],
         [
-          -121.75962226568984,
-          38.53203563550007
+          -121.76212037971418,
+          38.530795286840906
         ],
         [
-          -121.76658568592218,
-          38.53203563550007
+          -121.76694608069268,
+          38.530795286840906
         ],
         [
-          -121.76658568592218,
-          38.52726484945886
+          -121.76694608069268,
+          38.5288873428784
         ],
         [
-          -121.75962226568984,
-          38.52726484945886
+          -121.76212037971418,
+          38.5288873428784
         ]
       ]
     ]
   },
   "bbox": [
-    -121.76658568592218,
-    38.52726484945886,
-    -121.75962226568984,
-    38.53203563550007
+    -121.76694608069268,
+    38.5288873428784,
+    -121.76212037971418,
+    38.530795286840906
   ],
   "properties": {
-    "Title": "General Plan Shields Grove: Mediterranean Area",
-    "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
-    "Publisher": "unknown",
-    "Year": "1982",
-    "Map Scale": "1:(nan,)",
-    "Map Type": "general",
-    "datetime": "2026-09-11T16:54:13.250899Z"
+    "Title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)",
+    "Cartographer": "Samuel K. Kim",
+    "Publisher": "Samuel K. Kim",
+    "Year": "1993",
+    "Map Scale": "1:('1\"=30\\'',)",
+    "Map Type": "schematic",
+    "datetime": "2026-09-10T20:32:05.729964Z"
   },
   "links": [
     {
@@ -67,9 +67,9 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "georeferenced_maps/arboretum_016_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
-      "title": "General Plan Shields Grove: Mediterranean Area"
+      "title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)"
     }
   },
   "collection": "arboretum_maps"

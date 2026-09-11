@@ -2,48 +2,48 @@
   "type": "Feature",
   "stac_version": "1.1.0",
   "stac_extensions": [],
-  "id": "1000006",
+  "id": "1000010",
   "geometry": {
     "type": "Polygon",
     "coordinates": [
       [
         [
-          -121.75962226568984,
-          38.52726484945886
+          -121.75918619872051,
+          38.529289940408646
         ],
         [
-          -121.75962226568984,
-          38.53203563550007
+          -121.75918619872051,
+          38.530469434134694
         ],
         [
-          -121.76658568592218,
-          38.53203563550007
+          -121.7605941503313,
+          38.530469434134694
         ],
         [
-          -121.76658568592218,
-          38.52726484945886
+          -121.7605941503313,
+          38.529289940408646
         ],
         [
-          -121.75962226568984,
-          38.52726484945886
+          -121.75918619872051,
+          38.529289940408646
         ]
       ]
     ]
   },
   "bbox": [
-    -121.76658568592218,
-    38.52726484945886,
-    -121.75962226568984,
-    38.53203563550007
+    -121.7605941503313,
+    38.529289940408646,
+    -121.75918619872051,
+    38.530469434134694
   ],
   "properties": {
-    "Title": "General Plan Shields Grove: Mediterranean Area",
-    "Cartographer": "Arbegast J. Yim, L. Struckmeyer",
+    "Title": "California Garden: Final Design(pastel)",
+    "Cartographer": "Stephanie Peason",
     "Publisher": "unknown",
-    "Year": "1982",
-    "Map Scale": "1:(nan,)",
-    "Map Type": "general",
-    "datetime": "2026-09-11T16:54:13.250899Z"
+    "Year": "1996",
+    "Map Scale": "1:('1\"=10\\'',)",
+    "Map Type": "planting",
+    "datetime": "2026-09-10T20:32:05.723161Z"
   },
   "links": [
     {
@@ -67,9 +67,9 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "georeferenced_maps/arboretum_010_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
-      "title": "General Plan Shields Grove: Mediterranean Area"
+      "title": "California Garden: Final Design(pastel)"
     }
   },
   "collection": "arboretum_maps"
