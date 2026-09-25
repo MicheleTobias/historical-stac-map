@@ -37,13 +37,13 @@
     35.515173338094655
   ],
   "properties": {
-    "Title": NaN,
+    "Title": "Rosedale",
     "Cartographer": "USGS",
     "Publisher": "USGS",
     "Year": 1958,
     "Map Scale": "1:('1:24000',)",
-    "Map Type": NaN,
-    "datetime": "2026-09-25T18:52:17.477453Z"
+    "Map Type": "landuse",
+    "datetime": "2026-09-25T22:31:48.423208Z"
   },
   "links": [
     {
@@ -69,7 +69,7 @@
     "metadata": {
       "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
-      "title": NaN
+      "title": "Rosedale"
     }
   },
   "collection": "arboretum_maps"
