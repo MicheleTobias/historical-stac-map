@@ -40,10 +40,10 @@
     "Title": "Fall Color Planting Design",
     "Cartographer": "Warren Roberts",
     "Publisher": "unknown",
-    "Year": "1996",
+    "Year": 1996,
     "Map Scale": "1:('1\"=15.5\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-09-11T16:54:13.271519Z"
+    "datetime": "2026-09-25T18:52:16.967630Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Fall Color Planting Design"
     }

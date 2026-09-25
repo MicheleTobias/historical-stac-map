@@ -40,10 +40,10 @@
     "Title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)",
     "Cartographer": "Samuel K. Kim",
     "Publisher": "Samuel K. Kim",
-    "Year": "1993",
+    "Year": 1993,
     "Map Scale": "1:('1\"=30\\'',)",
     "Map Type": "schematic",
-    "datetime": "2026-09-11T16:54:13.268903Z"
+    "datetime": "2026-09-25T18:52:16.964964Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Hydrozone Garden: schematic Landscape Plan (Final drawing - full color)"
     }

@@ -40,10 +40,10 @@
     "Title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint",
     "Cartographer": "J.J.",
     "Publisher": "DSK Associates",
-    "Year": "1994",
+    "Year": 1994,
     "Map Scale": "1:('1\"=1/8\\'',)",
     "Map Type": "blueprint",
-    "datetime": "2026-09-11T16:54:13.246101Z"
+    "datetime": "2026-09-25T18:52:16.937119Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint"
     }

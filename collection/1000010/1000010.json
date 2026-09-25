@@ -40,10 +40,10 @@
     "Title": "California Garden: Final Design(pastel)",
     "Cartographer": "Stephanie Peason",
     "Publisher": "unknown",
-    "Year": "1996",
+    "Year": 1996,
     "Map Scale": "1:('1\"=10\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-09-11T16:54:13.261612Z"
+    "datetime": "2026-09-25T18:52:16.956209Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "California Garden: Final Design(pastel)"
     }

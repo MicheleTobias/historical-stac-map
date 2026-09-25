@@ -40,10 +40,10 @@
     "Title": "Oak Plantings ",
     "Cartographer": "Julie Sayer and Leigh Slimp",
     "Publisher": "unknown",
-    "Year": "1982",
+    "Year": 1982,
     "Map Scale": "1:('1\"=40\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-09-11T16:54:13.264390Z"
+    "datetime": "2026-09-25T18:52:16.959184Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Oak Plantings "
     }

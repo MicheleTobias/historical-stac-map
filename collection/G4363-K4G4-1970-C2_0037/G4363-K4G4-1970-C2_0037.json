@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "G4363-K4G4-1970-C2_0037",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.98149011616377,
+          35.725283467192206
+        ],
+        [
+          -118.98149011616377,
+          35.893390738327234
+        ],
+        [
+          -119.14597119717911,
+          35.893390738327234
+        ],
+        [
+          -119.14597119717911,
+          35.725283467192206
+        ],
+        [
+          -118.98149011616377,
+          35.725283467192206
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    -119.14597119717911,
+    35.725283467192206,
+    -118.98149011616377,
+    35.893390738327234
+  ],
+  "properties": {
+    "Title": NaN,
+    "Cartographer": "USGS",
+    "Publisher": "USGS",
+    "Year": 1970,
+    "Map Scale": "1:('1:24000',)",
+    "Map Type": NaN,
+    "datetime": "2026-09-25T18:52:17.050033Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "Arboretum Maps"
+    }
+  ],
+  "assets": {
+    "metadata": {
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "type": "image/tiff; application=geotiff",
+      "title": NaN
+    }
+  },
+  "collection": "arboretum_maps"
+}

@@ -40,10 +40,10 @@
     "Title": "Cole Facilty Area: Asphalt Path Improvements",
     "Cartographer": "Steve Greco",
     "Publisher": "unknown",
-    "Year": "1988",
+    "Year": 1988,
     "Map Scale": "1:(nan,)",
     "Map Type": "blueprint",
-    "datetime": "2026-09-11T16:54:13.253402Z"
+    "datetime": "2026-09-25T18:52:16.946684Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Cole Facilty Area: Asphalt Path Improvements"
     }

@@ -40,10 +40,10 @@
     "Title": "Arboretum Functions",
     "Cartographer": "Bill Andersen",
     "Publisher": "unknown",
-    "Year": "1957",
+    "Year": 1957,
     "Map Scale": "1:('1\"=100\\'',)",
     "Map Type": "functions",
-    "datetime": "2026-09-11T16:54:13.243861Z"
+    "datetime": "2026-09-25T18:52:16.934124Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Arboretum Functions"
     }
