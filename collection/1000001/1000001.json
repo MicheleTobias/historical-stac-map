@@ -43,7 +43,7 @@
     "Year": 1974,
     "Map Scale": "1:('1\"=100\\'',)",
     "Map Type": "inventory",
-    "datetime": "2026-10-06T18:30:37.220214Z"
+    "datetime": "2026-10-06T19:46:18.778121Z"
   },
   "links": [
     {
@@ -67,6 +67,11 @@
   ],
   "assets": {
     "metadata": {
+      "href": "https://github.com/MicheleTobias/historical-stac-map/raw/refs/heads/main/thumbnails/arboretum_001_georeferenced.tif",
+      "type": "image/tiff; application=geotiff",
+      "title": "Putah Creek Tree Locations"
+    },
+    "visual": {
       "href": "https://github.com/MicheleTobias/historical-stac-map/raw/refs/heads/main/thumbnails/arboretum_001_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Putah Creek Tree Locations"

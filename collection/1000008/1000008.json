@@ -43,7 +43,7 @@
     "Year": 1969,
     "Map Scale": "1:('1\"=40\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-10-06T18:30:37.264282Z"
+    "datetime": "2026-10-06T19:46:18.821900Z"
   },
   "links": [
     {
@@ -67,6 +67,11 @@
   ],
   "assets": {
     "metadata": {
+      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "type": "image/tiff; application=geotiff",
+      "title": "Eucalyptus Planting"
+    },
+    "visual": {
       "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Eucalyptus Planting"

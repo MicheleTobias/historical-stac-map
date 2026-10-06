@@ -43,7 +43,7 @@
     "Year": 1994,
     "Map Scale": "1:('1\"=1/8\\'',)",
     "Map Type": "blueprint",
-    "datetime": "2026-10-06T18:30:37.236170Z"
+    "datetime": "2026-10-06T19:46:18.794805Z"
   },
   "links": [
     {
@@ -67,6 +67,11 @@
   ],
   "assets": {
     "metadata": {
+      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "type": "image/tiff; application=geotiff",
+      "title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint"
+    },
+    "visual": {
       "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "Hydrozone Garden: Fountain/Dry Garden Enlargement Hand Colored Blueprint"
