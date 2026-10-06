@@ -43,7 +43,7 @@
     "Year": 1982,
     "Map Scale": "1:(nan,)",
     "Map Type": "general",
-    "datetime": "2026-10-06T18:24:55.653549Z"
+    "datetime": "2026-10-06T18:30:37.250057Z"
   },
   "links": [
     {
@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "https://drive.google.com/uc?export=view&id=1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
       "title": "General Plan Shields Grove: Mediterranean Area"
     }
