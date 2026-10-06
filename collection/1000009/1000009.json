@@ -43,7 +43,7 @@
     "Year": 1993,
     "Map Scale": "1:('1\"=10\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-10-06T19:46:18.828358Z"
+    "datetime": "2026-10-06T21:42:43.886127Z"
   },
   "links": [
     {
@@ -74,7 +74,8 @@
     "visual": {
       "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
-      "title": "Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge"
+      "title": "Amy Davis Plan for Slopes E & W of Putah Creek Lodge bridge",
+      "roles": "visual"
     }
   },
   "collection": "arboretum_maps"

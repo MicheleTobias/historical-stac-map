@@ -43,7 +43,7 @@
     "Year": 1982,
     "Map Scale": "1:('1\"=40\\'',)",
     "Map Type": "planting",
-    "datetime": "2026-10-06T19:46:18.841426Z"
+    "datetime": "2026-10-06T21:42:43.899744Z"
   },
   "links": [
     {
@@ -74,7 +74,8 @@
     "visual": {
       "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
-      "title": "Oak Plantings "
+      "title": "Oak Plantings ",
+      "roles": "visual"
     }
   },
   "collection": "arboretum_maps"

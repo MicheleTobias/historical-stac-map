@@ -43,7 +43,7 @@
     "Year": 1958,
     "Map Scale": "1:('1:24000',)",
     "Map Type": "landuse",
-    "datetime": "2026-10-06T19:46:18.958401Z"
+    "datetime": "2026-10-06T21:42:44.028735Z"
   },
   "links": [
     {
@@ -74,7 +74,8 @@
     "visual": {
       "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
-      "title": "Allensworth"
+      "title": "Allensworth",
+      "roles": "visual"
     }
   },
   "collection": "arboretum_maps"

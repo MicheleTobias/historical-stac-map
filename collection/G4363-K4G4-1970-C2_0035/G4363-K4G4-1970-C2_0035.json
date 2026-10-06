@@ -43,7 +43,7 @@
     "Year": 1970,
     "Map Scale": "1:('1:24000',)",
     "Map Type": "landuse",
-    "datetime": "2026-10-06T19:46:18.946167Z"
+    "datetime": "2026-10-06T21:42:44.012571Z"
   },
   "links": [
     {
@@ -74,7 +74,8 @@
     "visual": {
       "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
       "type": "image/tiff; application=geotiff",
-      "title": "Pleito_H"
+      "title": "Pleito_H",
+      "roles": "visual"
     }
   },
   "collection": "arboretum_maps"
