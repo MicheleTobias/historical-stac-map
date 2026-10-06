@@ -67,7 +67,7 @@
   ],
   "assets": {
     "metadata": {
-      "href": "thumbnails/arboretum_001_georeferenced.tif",
+      "href": "/thumbnails/arboretum_001_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Putah Creek Tree Locations"
     }
