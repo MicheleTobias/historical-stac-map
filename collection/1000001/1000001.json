@@ -67,12 +67,12 @@
   ],
   "assets": {
     "metadata": {
-      "href": "http://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/thumbnails/arboretum_001_georeferenced.tif",
+      "href": "https://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/thumbnails/arboretum_001_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Putah Creek Tree Locations"
     },
     "visual": {
-      "href": "http://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/thumbnails/arboretum_001_georeferenced.tif",
+      "href": "https://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/thumbnails/arboretum_001_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Putah Creek Tree Locations",
       "roles": "visual"
