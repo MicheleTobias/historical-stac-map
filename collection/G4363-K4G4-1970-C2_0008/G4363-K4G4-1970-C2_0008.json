@@ -43,7 +43,7 @@
     "Year": 1970,
     "Map Scale": "1:('1:24000',)",
     "Map Type": "landuse",
-    "datetime": "2026-10-14T21:34:53.238033Z"
+    "datetime": "2026-10-14T21:48:07.854126Z"
   },
   "links": [
     {
@@ -67,12 +67,12 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./none",
+      "href": "none",
       "type": "image/tiff; application=geotiff",
       "title": "Coal_Oil_Canyon"
     },
     "visual": {
-      "href": "./none",
+      "href": "none",
       "type": "image/tiff; application=geotiff",
       "title": "Coal_Oil_Canyon",
       "roles": "visual"

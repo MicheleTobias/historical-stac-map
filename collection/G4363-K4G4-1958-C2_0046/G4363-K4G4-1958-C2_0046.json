@@ -43,7 +43,7 @@
     "Year": 1958,
     "Map Scale": "1:('1:24000',)",
     "Map Type": "landuse",
-    "datetime": "2026-10-14T21:34:53.382751Z"
+    "datetime": "2026-10-14T21:48:08.002619Z"
   },
   "links": [
     {
@@ -67,12 +67,12 @@
   ],
   "assets": {
     "metadata": {
-      "href": "./none",
+      "href": "none",
       "type": "image/tiff; application=geotiff",
       "title": "Sawtooth_Ridge"
     },
     "visual": {
-      "href": "./none",
+      "href": "none",
       "type": "image/tiff; application=geotiff",
       "title": "Sawtooth_Ridge",
       "roles": "visual"
