@@ -43,7 +43,7 @@
     "Year": 1988,
     "Map Scale": "1:(nan,)",
     "Map Type": "blueprint",
-    "datetime": "2026-10-06T21:42:43.870898Z"
+    "datetime": "2026-10-14T21:25:01.835035Z"
   },
   "links": [
     {
@@ -67,12 +67,12 @@
   ],
   "assets": {
     "metadata": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/thumbnails/arboretum_007_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Cole Facilty Area: Asphalt Path Improvements"
     },
     "visual": {
-      "href": "1poYLNbMnhe_3zw2zETk59z2KbG2bFw0K",
+      "href": "https://raw.githubusercontent.com/MicheleTobias/historical-stac-map/refs/heads/main/thumbnails/arboretum_007_georeferenced.tif",
       "type": "image/tiff; application=geotiff",
       "title": "Cole Facilty Area: Asphalt Path Improvements",
       "roles": "visual"
