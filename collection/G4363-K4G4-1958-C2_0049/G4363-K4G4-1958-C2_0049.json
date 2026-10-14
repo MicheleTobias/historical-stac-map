@@ -43,7 +43,7 @@
     "Year": 1958,
     "Map Scale": "1:('1:24000',)",
     "Map Type": "landuse",
-    "datetime": "2026-10-14T21:25:02.038548Z"
+    "datetime": "2026-10-14T21:34:53.392970Z"
   },
   "links": [
     {
@@ -67,12 +67,12 @@
   ],
   "assets": {
     "metadata": {
-      "href": "none",
+      "href": "./none",
       "type": "image/tiff; application=geotiff",
       "title": "Taft"
     },
     "visual": {
-      "href": "none",
+      "href": "./none",
       "type": "image/tiff; application=geotiff",
       "title": "Taft",
       "roles": "visual"

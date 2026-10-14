@@ -43,7 +43,7 @@
     "Year": 1970,
     "Map Scale": "1:('1:24000',)",
     "Map Type": "landuse",
-    "datetime": "2026-10-14T21:25:01.931280Z"
+    "datetime": "2026-10-14T21:34:53.287021Z"
   },
   "links": [
     {
@@ -67,12 +67,12 @@
   ],
   "assets": {
     "metadata": {
-      "href": "none",
+      "href": "./none",
       "type": "image/tiff; application=geotiff",
       "title": "Oildale"
     },
     "visual": {
-      "href": "none",
+      "href": "./none",
       "type": "image/tiff; application=geotiff",
       "title": "Oildale",
       "roles": "visual"
